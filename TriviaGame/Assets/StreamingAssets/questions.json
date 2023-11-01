@@ -1,0 +1,25 @@
+{
+    "questions": [
+        {
+            "question": "What is the capital of France?",
+            "answers": ["Madrid", "London", "Paris", "Berlin"],
+            "correctAnswerIndex": 2
+        },
+        {
+            "question": "Which planet is known as the Red Planet?",
+            "answers": ["Mars", "Venus", "Earth", "Jupiter"],
+            "correctAnswerIndex": 0
+        },
+		{
+            "question": "What is the Capital of India?",
+            "answers": ["Delhi", "Calcutta", "Bombay", "Chennai"],
+            "correctAnswerIndex": 0
+        },
+		{
+            "question": "What is the Capital of Tamilnadu?",
+            "answers": ["Coimbatore", "Chennai", "Madurai", "Trichy"],
+            "correctAnswerIndex": 1
+        }
+        
+    ]
+}
